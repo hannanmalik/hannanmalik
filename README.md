@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="./title.gif"f>
+<img align="center" alt="Coding" width="1000" src="./title.gif">
 
 <br>
 
