@@ -1,3 +1,6 @@
+<img align="center" alt="Coding" width="1000" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDU5MzcsIm5iZiI6MTczNzU0NTYzNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDExMzM1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzYjAxYjM4NTU3NTUwMWVhODI5YTZiM2M5NmIyN2JkYzViMDJiZTQyNWM0Y2UwYjExNmMzNDY5MzdkYzRmZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1F3lWivlzzWmQh1x4sVh7RXMqYK8GwiysR9hvuLDAbY">
+
+<br>
 
 <h3 align="center">
   <samp>&gt; Hi There!, I am
@@ -42,6 +45,16 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,selenium,react,nextjs,cpp,cs,java,flutter,vscode,github,git,linux" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,express,docker,mongodb,kubernetes,mysql,postgresql,fastapi,py,postman,php,mysql" /><br>
 </div>
+
+## Development Work: 💭
+  <p align="center">
+      <a href="https://github.com/hannanmalik">
+          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hannanmalik&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hannanmalik&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+      </a>
+  </p>
+
+
 
 
 <h6 align="center">
